@@ -23,7 +23,7 @@ Programa gratuito promovido pela Rocketseat.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias: 
+Esse projeto foi desenvolvido com as seguintes tecnologia:  
 
 - React.js
 - Typescript
