@@ -19,11 +19,11 @@ Programa gratuito promovido pela Rocketseat.
 
 <p align="center">
   <img alt="Expert notes" src="./src/assets/home.png" width="100%">
-</p>
+</p> 
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologia:  
+Esse projeto foi desenvolvido com as seguintes tecnologia
 
 - React.js
 - Typescript
@@ -46,4 +46,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat  [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat  [Participe da nossa comunidade!](https://discord.gg/rocketseat)# expert-notes
