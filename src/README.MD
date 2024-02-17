@@ -18,7 +18,7 @@ Programa gratuito promovido pela Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="Expert notes" src="./assets/Home.png" width="100%">
+  <img alt="Expert notes" src="./assets/home.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
